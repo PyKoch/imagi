@@ -1,2 +1,2 @@
-# imagi
+# imagiCharms
 imagiCharm code features
