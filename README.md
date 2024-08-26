@@ -13,3 +13,16 @@ This is how you assign the colour:
 ```
 m[0][1] = R
 ```
+
+**Assigning RGB colours:**  
+Copy and paste the desired colour from your design section on your pixel: 
+```
+m[0][1] = (242, 5, 0)
+```
+
+**Let your pixels blink:**
+Pick a blink rate between 0 (not blinking) and 3 (blinking 3 times a second). Floats possible. 
+```
+m[0][1] = (242, 5, 0)
+blink_rate = 1
+```
