@@ -26,3 +26,20 @@ Pick a blink rate between 0 (not blinking) and 3 (blinking 3 times a second). Fl
 m[0][1] = (242, 5, 0)
 blink_rate = 1
 ```
+**Functions:**  
+Functions start with 'def'. A parameter or several can be handed over.  
+The function then needs to be 'called' and an argument needs to be set (here the colour red). 
+```
+def first_column_colour (colour):
+  m[0][0]=colour
+  m[0][1]=colour
+  m[0][2]=colour
+  m[0][3]=colour
+  m[0][4]=colour
+  m[0][5]=colour
+  m[0][6]=colour
+  m[0][7]=colour
+
+first_column_colour(R)
+  
+```
