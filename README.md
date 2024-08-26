@@ -41,5 +41,24 @@ def first_column_colour (colour):
   m[0][7]=colour
 
 first_column_colour(R)
-  
 ```
+**Loops: for-loops**  
+If you want to run code repeatedly, loops are very useful.  
+'for'-loops can run for a set number of times.  
+```
+for x in range (8):
+  m[0][x]=R
+```
+
+**Loops: while loops**  
+If you want to run code repeatedly, loops are very useful.  
+While loops run as long as a condition is true.  
+
+```
+x = 0
+
+while x<=7:
+  m[0][x]=R
+  x+=1
+```
+'x+=1' adds the number '1' to the current value of x.  
