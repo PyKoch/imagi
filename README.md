@@ -62,3 +62,15 @@ while x<=7:
   x+=1
 ```
 'x+=1' adds the number '1' to the current value of x.  
+
+**Nested for-loops**
+At times it can be useful to have a loop inside another loop. 
+If I want to fill the first six rows of the matrix with yellow dots, I can do this with this very short piece of code: 
+```
+for col in range (8):
+  for row in range (6):
+    m[row][col]=Y
+```
+
+
+
