@@ -43,11 +43,36 @@ for row in range (0,8):
     m[row][col]=R
 ```
 
+<img width="250" alt="red_dots" src="https://github.com/user-attachments/assets/283ea0c2-affa-4fb0-b8a3-21cccf623f3c">
+
 Now you can modify the code to add the white horizontal line in the middle: 
 ```
 for row in range (0,8):
-  if row == 3:
-    m[row][col]=W
-  else:
-    m[row][col]=R
+  for col in range (0,8):
+    if row == 3:
+      m[row][col]=W
+    else:
+      m[row][col]=R
 ```
+<img width="250" alt="austrian" src="https://github.com/user-attachments/assets/0e801ead-899d-4bd7-b186-2d7bb6a4b96b">
+
+As an Austrian, you might not be satisfied with this result. 
+One solution would be to use the elif statement: 
+
+```
+for row in range (0,8):
+  for col in range (0,8):
+    if row == 3:
+      m[row][col]=W
+    elif row ==4:
+      m[row][col]=W
+    else:
+      m[row][col]=R
+```
+
+<img width="260" alt="austrian2" src="https://github.com/user-attachments/assets/f0a1b38c-991e-41dc-a37a-6c22a3c0d98b">
+
+### Challenge: 
+Use conditions to draw the German flag: 
+
+<img width="253" alt="German" src="https://github.com/user-attachments/assets/2dc9dfa1-d102-4988-926a-5522c68d7ef8">
