@@ -72,5 +72,5 @@ for col in range (8):
     m[row][col]=Y
 ```
 
-
+The full documentation for all the features of the imagi library can be found [here](https://imagilabs.notion.site/Documentation-6abe65e2127c455d942eea5820d19587). 
 
