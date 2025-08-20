@@ -78,5 +78,5 @@ The full documentation for all the features of the imagi library can be found [h
 
 [30 Coding Challenges](https://imagilabs.notion.site/30-Code-Challenge-Ideas-e0698cc8fea947b499886e501d29d76e) for imagiCharms
 
-[Code Project Examples] (https://imagilabs.notion.site/Code-Project-Examples-391ef23395f2447081ce26c591b2d5d1) by level
+[Code Project Examples](https://imagilabs.notion.site/Code-Project-Examples-391ef23395f2447081ce26c591b2d5d1) by level
 
