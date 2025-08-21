@@ -80,5 +80,7 @@ The full documentation for all the features of the imagi library can be found [h
 
 [Code Project Examples](https://imagilabs.notion.site/Code-Project-Examples-391ef23395f2447081ce26c591b2d5d1) by level of experience
 
+[Documentation](https://imagilabs.notion.site/Documentation-6abe65e2127c455d942eea5820d19587)
+
 [Cheat Sheet](https://imagilabs.docsend.com/view/mmd3haj8bigcixkc)
 
